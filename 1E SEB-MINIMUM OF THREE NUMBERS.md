@@ -30,5 +30,8 @@ print(f"The minimum of {num1}, {num2}, {num3} is {min_num}")
 ```
 
 ## OUTPUT
+<img width="1194" height="417" alt="image" src="https://github.com/user-attachments/assets/e634533e-b142-4eef-912b-048a77506ded" />
 
 ## RESULT
+Thus the python program for finding a minimum of three numbers has been implemented and executed successfully.
+
