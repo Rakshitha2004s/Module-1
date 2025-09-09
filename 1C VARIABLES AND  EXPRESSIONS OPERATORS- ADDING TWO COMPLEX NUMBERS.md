@@ -12,9 +12,9 @@ To write a Python program for adding two complex numbers, and get the user input
 6. Terminate the program.
 
 ## PROGRAM
-```python
+
 # Reg.No-212222060245
-#Name-Singamala Rakshitha
+# Name-Singamala Rakshitha
 #Write your code here
 ```
 a = 13
@@ -31,7 +31,7 @@ print(a != b)
 print(a >= b)
 # a <= b is True
 print(a <= b)
-
+```
 
 ## OUTPUT
 <img width="1196" height="353" alt="image" src="https://github.com/user-attachments/assets/6eecca39-ce28-43d8-b327-7afeef0e3ef5" />
