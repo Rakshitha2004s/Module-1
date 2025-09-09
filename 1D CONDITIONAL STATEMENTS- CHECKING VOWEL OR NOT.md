@@ -27,5 +27,7 @@ else:
 ```
 
 ## OUTPUT
+<img width="1057" height="327" alt="image" src="https://github.com/user-attachments/assets/185841c2-3c40-4cfa-a940-04685abc523b" />
 
 ## RESULT
+A Python program to check whether the given character is a vowel or not using if..else statement has been implemented and executed successfully.
