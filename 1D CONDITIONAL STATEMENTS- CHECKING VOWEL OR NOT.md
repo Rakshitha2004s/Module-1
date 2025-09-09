@@ -17,13 +17,16 @@ To Write a Python program to check whether the given character is a vowel or not
 # Name-
 # Write your code here
 
-char = input("Enter a character: ")
-char_lower = char.lower()
-
-if char_lower in ['a', 'e', 'i', 'o', 'u']:
-    print("The given character is a vowel")
+num=int(input())
+if num % 2==0:
+    if num >=25:
+        print(num,"is an Even number")
+        print(num,"is greater than or equal to 25")
+    else:
+        print(num,"is an Even number")
+        print(num,"is lesser than 25")
 else:
-    print("The given character is NOT a vowel")
+   print(num,"is NOT an Even number")
 ```
 
 ## OUTPUT
