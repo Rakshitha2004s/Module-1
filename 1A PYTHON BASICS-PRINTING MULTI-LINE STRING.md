@@ -15,18 +15,14 @@ To create a Python program to print the string in multiple lines using triple qu
 # Name-Singamala Rakshitha
 # Write your code here
 
-string_single_quotes = '''I am a string literal
+print("""I am a string literal
 ... has more than one
 ... line
-... placed inside triple single quotes'''
-
-string_double_quotes = """I am a string literal
+....placed inside triple single quotes
+I am a string literal
 ... has more than one
 ... line
-... placed inside triple double quotes"""
-
-print(string_single_quotes)
-print(string_double_quotes)
+....placed inside triple double quotes""")
 ```
 ## OUTPUT
 <img width="1189" height="462" alt="image" src="https://github.com/user-attachments/assets/b0aa2653-fb38-4d3e-a075-c63418c2e588" />
