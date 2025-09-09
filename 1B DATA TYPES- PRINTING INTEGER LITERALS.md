@@ -15,13 +15,10 @@ To write a Python program to print the following integer literals: 123, 456, 789
 # Name-Singamala Rakshitha
 # Write your code here
 
-num1 = 123
-num2 = 456
-num3 = 789
+a=int(input())
+b=float(input())
+print(a,b)
 
-print(num1)
-print(num2)
-print(num3)
 
 ```
 ## OUTPUT
