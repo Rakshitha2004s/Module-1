@@ -25,5 +25,7 @@ print(num3)
 
 ```
 ## OUTPUT
+<img width="1170" height="310" alt="image" src="https://github.com/user-attachments/assets/12605b13-01c2-4860-9102-01138442b045" />
 
 ## RESULT
+The program successfully prints the integer and float literals 10,3.14.
